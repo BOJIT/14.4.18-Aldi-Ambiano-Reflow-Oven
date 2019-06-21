@@ -4,7 +4,7 @@ and the £19.99 Aldi Ambiano Mini Oven
 
 Developers: James Bennion-Pedley
 
-Project Write-Up Here: https://bojit.github.io/projects/2018/12/10/Stepper_Driver/
+Project Write-Up Here: https://bojit.github.io/projects/2018/04/10/Reflow_Oven/
 
 BOJIT Development Team
 
