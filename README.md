@@ -10,6 +10,6 @@ Project Write-Up Here: https://bojit.github.io/projects/2018/04/10/Reflow_Oven/
 
 BOJIT Development Team
 
-MIT License
+GPLv3 License
 
 Copyright (c) 2018 BOJIT
