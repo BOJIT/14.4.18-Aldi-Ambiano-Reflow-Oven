@@ -1,0 +1,8 @@
+Ceramic Insulation	£14.00	https://www.ebay.co.uk/itm/CERAMIC-INSULATION-BLANKET-WOOD-BURNING-PIZZA-OVEN-FURNACE-WOOL-25mm-HIGH-TEMP/323415218165?_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D20160323102634%26meid%3Da3129d6ce1954120abbe6465e47aa336%26pid%3D100623%26rk%3D3%26rkt%3D6%26sd%3D222262536663%26itm%3D323415218165&_trksid=p2047675.c100623.m-1
+High-Temperature Wire	£1.79	https://www.ebay.co.uk/itm/High-Temperature-Oven-Heat-Fire-Resistant-Braided-Glass-Fibre-Wire-cable-2-5mm/112352955954?_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D49138%26meid%3D3e0a894d66a24725a5272f2b58b35b42%26pid%3D100623%26rk%3D3%26rkt%3D6%26mehot%3Dpp%26sd%3D221148473727%26itm%3D112352955954&_trksid=p2047675.c100623.m-1
+Silicon Sealant		£2.79	https://www.ebay.co.uk/itm/BLACK-HIGH-TEMPERATURE-300-C-SILICONE-Heat-Resistant-ADHESIVE-SEALANT-Technicqll-/291793420033
+2 x SSR			£6.34	https://www.ebay.co.uk/itm/2PCS-Solid-State-Relay-SSR-25DA-25A-250V-3-32V-DC-Input-24-380VAC-Output-NEW/141676282282?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D49138%26meid%3D1e75db96cbb74b8993180ce7d6b87c3a%26pid%3D100005%26rk%3D3%26rkt%3D6%26sd%3D272523454311%26itm%3D141676282282&_trksid=p2047675.c100005.m1851
+Thermocouple + Breakout	£2.82	https://www.ebay.co.uk/itm/MAX6675-Module-K-Type-Thermocouple-Temperature-Sensor-For-Arduino-UK/153327741272?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D1%26asc%3D20190212102350%26meid%3D84b74bb93eeb4df8a78c0fbdfc75f751%26pid%3D100012%26rk%3D1%26rkt%3D8%26sd%3D291737861877%26itm%3D153327741272&_trksid=p2047675.c100012.m1985
+16x2 LCD		£3.24	https://www.ebay.co.uk/itm/1602-16x2-LCD-Display-Module-BLUE-white-character-Serial-Arduino-Raspberry-PI/292453360759?hash=item4417942477:g:0ugAAOSwIspaiFbk
+
+Total			£30.98
