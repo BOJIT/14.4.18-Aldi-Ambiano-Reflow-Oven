@@ -11,6 +11,10 @@
              - Added sounds.
              - Added temperature self check. The process self stops if unable to drive the oven.
 
+   1.3       BOJIT modifications:
+             - Interface is now in form of potentiometer and a rotary encoder
+             - Simplified ECAD layout to use commonly available modules and a single-sided layout
+
    Temperature (Degree Celcius)                 Magic Happens Here!
    245-|                                               x  x
        |                                            x        x
