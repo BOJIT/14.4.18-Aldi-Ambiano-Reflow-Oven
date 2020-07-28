@@ -6,7 +6,7 @@ Developers: James Bennion-Pedley
 
 Firmware closely based on work by https://github.com/giacu92/Arduino-Reflow-Oven-Controller
 
-Project Write-Up Here: [https://bojit.github.io/projects/Reflow_Oven/]
+Project Write-Up Here: [https://bojit.dev/projects/Reflow_Oven/]
 
 BOJIT Development Team
 
